@@ -19,13 +19,14 @@
 
 ---
 
-### things I'm building
+### open source
 
 | project | what it is |
 |---|---|
-| [**remind**](https://github.com/AFA-Tooling/remind) | student tooling for UC Berkeley — ACE Lab |
+| [**remind**](https://github.com/AFA-Tooling/remind) | aggregated deadlines & notifications manager for UC Berkeley students — ACE Lab |
 | [**facet**](https://github.com/itsgeagle/facet) | GoFundMe-style feature governance for product teams |
 | [**musicalcharcuterie**](https://github.com/itsgeagle/musicalcharcuterie) | Flask webapp that turns your Spotify taste into a 20-song "charcuterie board" |
+| [**caiedownloader**](https://github.com/itsgeagle/caiedownloader) | Python GUI to bulk-download CAIE past papers and compile them into a single PDF |
 
 ---
 
