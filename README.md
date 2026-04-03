@@ -44,7 +44,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsgeagle&show_icons=true&hide_border=true&bg_color=050505&title_color=f97316&icon_color=f97316&text_color=ededed&hide=stars)](https://github.com/itsgeagle)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsgeagle&layout=compact&hide_border=true&bg_color=050505&title_color=f97316&text_color=ededed&langs_count=5)](https://github.com/itsgeagle)
+[![GitHub Stats](./profile/stats.svg)](https://github.com/itsgeagle)
+[![Top Languages](./profile/top-langs.svg)](https://github.com/itsgeagle)
 
 </div>
