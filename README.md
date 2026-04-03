@@ -5,7 +5,7 @@
 **EECS @ UC Berkeley** · building tools at the intersection of CS, education, and security
 
 [![Portfolio](https://img.shields.io/badge/aaryanmehta.com-f97316?style=flat&logo=safari&logoColor=000)](https://aaryanmehta.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/itsgeagle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/aaryanm)
 
 </div>
 
