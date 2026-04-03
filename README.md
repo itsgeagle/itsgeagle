@@ -19,7 +19,7 @@
 
 ---
 
-### open source
+### open source i'm building/contributing to
 
 | project | what it is |
 |---|---|
