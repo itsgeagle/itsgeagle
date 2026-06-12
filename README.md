@@ -14,7 +14,7 @@
 ### what I'm up to
 
 - **ACE Lab @ Berkeley** — Undergraduate researcher with Prof. Dan Garcia, building software for the entire UC Berkeley student body, exploring CS + Education
-- **BlueRobins** — Founding Backend & AI Intern, building 0→1 full-stack EdTech products (Node.js, FastAPI, React)
+- **BlueRobins** — Engineering Lead (prev. Founding SWE Intern), building and architecting 0→1 full-stack EdTech products across web, mobile, and AI surfaces
 - **Berkeley IT** — Security intern on the SIS Security team, shipping automation tools for identity governance across campus
 
 ---
