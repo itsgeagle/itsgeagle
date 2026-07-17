@@ -61,6 +61,5 @@ Building [**ProvenanceTools**](https://github.com/ProvenanceTools) — an academ
 <div align="center">
 
 [![GitHub Stats](./profile/stats.svg)](https://github.com/itsgeagle)
-[![Top Languages](./profile/top-langs.svg)](https://github.com/itsgeagle)
 
 </div>
