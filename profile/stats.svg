@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Aaryan Mehta's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Commits  (last year) : 4584, Total PRs: 497, Total Issues: 9, Contributed to (last year): 29</desc>
+        <desc id="descId">Total Commits  (last year) : 4592, Total PRs: 497, Total Issues: 9, Contributed to (last year): 29</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 93.46827982839895;
+        stroke-dashoffset: 93.46827705143356;
       }
     }
   
